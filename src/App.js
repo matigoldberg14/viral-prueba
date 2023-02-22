@@ -30,8 +30,7 @@ import OnramperWidget from "@onramper/widget";
 const App = () => {
   return (
     <div>
-      <Navbar/>
-      <CuadroPrincipal/>
+      <AppPrueba/>
     </div>
   );
 };
