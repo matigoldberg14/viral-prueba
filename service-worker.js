@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/viral-prueba/precache-manifest.5b0106b0596709cb174d6df21f6b7bf1.js"
+  "/prueba-viral/precache-manifest.e5cb30742f3a85eef6bde39494fe4ad4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/viral-prueba/index.html", {
+workbox.routing.registerNavigationRoute("/prueba-viral/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
