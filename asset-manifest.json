@@ -1,7 +1,7 @@
 {
   "main.css": "/viral-prueba/static/css/main.4d107cb2.chunk.css",
-  "main.js": "/viral-prueba/static/js/main.982e50de.chunk.js",
-  "main.js.map": "/viral-prueba/static/js/main.982e50de.chunk.js.map",
+  "main.js": "/viral-prueba/static/js/main.348d2ea8.chunk.js",
+  "main.js.map": "/viral-prueba/static/js/main.348d2ea8.chunk.js.map",
   "static/js/1.e5c3fa12.chunk.js": "/viral-prueba/static/js/1.e5c3fa12.chunk.js",
   "static/js/1.e5c3fa12.chunk.js.map": "/viral-prueba/static/js/1.e5c3fa12.chunk.js.map",
   "runtime~main.js": "/viral-prueba/static/js/runtime~main.9d96fd37.js",
@@ -10,6 +10,6 @@
   "static/media/cuadroGrande.jpg": "/viral-prueba/static/media/cuadroGrande.8a2bb870.jpg",
   "static/css/main.4d107cb2.chunk.css.map": "/viral-prueba/static/css/main.4d107cb2.chunk.css.map",
   "index.html": "/viral-prueba/index.html",
-  "precache-manifest.e60252972a47c7f20510dd8d35892c48.js": "/viral-prueba/precache-manifest.e60252972a47c7f20510dd8d35892c48.js",
+  "precache-manifest.5b0106b0596709cb174d6df21f6b7bf1.js": "/viral-prueba/precache-manifest.5b0106b0596709cb174d6df21f6b7bf1.js",
   "service-worker.js": "/viral-prueba/service-worker.js"
 }
