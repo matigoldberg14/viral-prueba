@@ -32,7 +32,6 @@ const App = () => {
     <div>
       <Navbar/>
       <CuadroPrincipal/>
-      <AppPrueba/>
     </div>
   );
 };
