@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "eca4012f3f90d0d01d77",
+    "revision": "982e50de349e2e6f5198",
     "url": "/viral-prueba/static/css/main.4d107cb2.chunk.css"
   },
   {
-    "revision": "eca4012f3f90d0d01d77",
-    "url": "/viral-prueba/static/js/main.eca4012f.chunk.js"
+    "revision": "982e50de349e2e6f5198",
+    "url": "/viral-prueba/static/js/main.982e50de.chunk.js"
   },
   {
     "revision": "e5c3fa12dd8fdfe72cfb",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/viral-prueba/static/media/cuadroGrande.8a2bb870.jpg"
   },
   {
-    "revision": "ff886358bb88ec2f7814e52f3d230dcb",
+    "revision": "2bdd87c435133b3bbffcc8ca9aaf25c5",
     "url": "/viral-prueba/index.html"
   }
 ];
